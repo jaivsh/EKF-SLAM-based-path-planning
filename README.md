@@ -19,5 +19,5 @@ Install the necessary libraries:
 ```bash
 pip install matplotlib numpy scipy
 ```
-
-###
+### A* traversal
+[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/username/repo-name/raw/main/path/to/your/video.mp4)
