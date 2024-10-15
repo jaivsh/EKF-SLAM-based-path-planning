@@ -10,14 +10,5 @@ This project demonstrates dynamic path planning using the A* algorithm integrate
 - **Matplotlib Visualization** of the robot's path.
 - **Video Export** of the robot’s navigation for easy sharing and analysis.
 
-## Usage
-
-### Installation
-
-Install the necessary libraries:
-
-```bash
-pip install matplotlib numpy scipy
-```
 ### A* traversal
 ![Project Walkthrough](demonstration.gif)
